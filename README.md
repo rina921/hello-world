@@ -1,4 +1,17 @@
-# hello-world
-just another repository 
-Hi, my name is Rina Lee. I like trying different kinds of food. 
-I also like doing hot yoga recently. 
+<head>
+<title>Rina Lee</title>
+<style>
+body {
+text-align: center;
+background-size: cover;
+background-position: center;
+color; pink;
+font-family: helvetica;
+}
+</style>
+</head>
+<body>
+<p>Hi! I'm Rina, Japan and US based food instagrammer. Say hello!</p>
+<input type="email" placeholder="Your email">
+<input type="submit">
+</body>
